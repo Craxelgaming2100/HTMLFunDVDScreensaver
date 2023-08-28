@@ -1,5 +1,7 @@
 # Favicon
+## Introduction
 The favicon is the icon that appears on the page.
+## Adding favicons
 To add a favicon, do this:
 ```
 <link rel="icon" type="image/x-icon" href="https://example.com/images/favicon.ico">
